@@ -1,0 +1,7 @@
+print("Hello.")
+print("Welcome to my playground.")
+print("Please go and fork this as you please.")
+print("You are not supposed to see this, please change my code.")
+print("Your actions will change me, someone named .")
+print("Best Regards,")
+print("Niko")
